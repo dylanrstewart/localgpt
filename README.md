@@ -8,4 +8,8 @@
 `streamlit run app.py`
 
 
+![LocalGPT](https://github.com/user-attachments/assets/f34241f3-4ad3-4ff7-8626-c416be584f4d)
+
+
+
 Note: This has been tested on a 4090 GPU
