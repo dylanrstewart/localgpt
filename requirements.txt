@@ -1,3 +1,4 @@
+accelerate
 huggingface_hub
 streamlit
 transformers
